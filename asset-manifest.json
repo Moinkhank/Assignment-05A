@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.bef53087.css",
-    "main.js": "/repository-name/static/js/main.0a3b351f.js",
-    "static/js/787.ecb432c7.chunk.js": "/repository-name/static/js/787.ecb432c7.chunk.js",
-    "index.html": "/repository-name/index.html",
-    "main.bef53087.css.map": "/repository-name/static/css/main.bef53087.css.map",
-    "main.0a3b351f.js.map": "/repository-name/static/js/main.0a3b351f.js.map",
-    "787.ecb432c7.chunk.js.map": "/repository-name/static/js/787.ecb432c7.chunk.js.map"
+    "main.css": "/Assignment-05A/static/css/main.bef53087.css",
+    "main.js": "/Assignment-05A/static/js/main.da7206cf.js",
+    "static/js/787.ecb432c7.chunk.js": "/Assignment-05A/static/js/787.ecb432c7.chunk.js",
+    "index.html": "/Assignment-05A/index.html",
+    "main.bef53087.css.map": "/Assignment-05A/static/css/main.bef53087.css.map",
+    "main.da7206cf.js.map": "/Assignment-05A/static/js/main.da7206cf.js.map",
+    "787.ecb432c7.chunk.js.map": "/Assignment-05A/static/js/787.ecb432c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bef53087.css",
-    "static/js/main.0a3b351f.js"
+    "static/js/main.da7206cf.js"
   ]
 }
